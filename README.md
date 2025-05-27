@@ -20,4 +20,4 @@ npm install
 ```
 node bot.js
 ```
-![](lxy.jpg)
+![](lxy.png)
