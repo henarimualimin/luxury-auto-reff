@@ -20,5 +20,5 @@ npm install
 ```
 node bot.js
 ```
-**Sedekah BSC hehe** : *0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17*
+**Gift Coffee** : *0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17*
 ![](lxy.png)
