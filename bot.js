@@ -22,7 +22,7 @@ console.log(chalk.cyan('Telegram: https://t.me/airdropdiggerid'));
 console.log(chalk.magenta('================================================================'));
 
 // Config
-const REFERRAL_CODE = 'bangcrot';
+const REFERRAL_CODE = 'YOUR REFERRAL CODE'; // change your referral code
 const BASE_URL = 'https://luxury-airdrop.onrender.com';
 let NUM_REGISTRATIONS = 0; // Will be set by user input
 const MIN_DELAY = 5000; // Delay minimal 5 detik antara request
