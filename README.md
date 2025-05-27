@@ -1,7 +1,7 @@
 # luxury-auto-reff
 
  ## CHANNEL TELEGRAM JOIN HERE
-[KLIK DISINI AIRDROP FETCH](https://t.me/airdropdiggerid)
+[KLIK DISINI AIRDROP DIGGER](https://t.me/airdropdiggerid)
 
 ## Installation 
 1. Clone the repository:
