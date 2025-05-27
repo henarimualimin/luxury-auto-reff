@@ -12,11 +12,13 @@ git clone https://github.com/henarimualimin/luxury-auto-reff.git
 ```bash
 cd luxury-auto-reff
 ```
-3. Install Module
+3. **open bot.js & edit line number 25 change your referral code**
+
+4. Install Module
 ```bash
 npm install
 ```
-4. Run the bot
+5. Run the bot
 ```
 node bot.js
 ```
